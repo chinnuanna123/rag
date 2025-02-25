@@ -2,3 +2,14 @@ llama-index
 openai
 pypdf
 python-dotenv
+langchain_openai
+langchain_core
+streamlit
+langchain_community
+langserve
+fastapi
+uvicorn
+sse-starlette
+bs4
+chromadb
+faiss-cpu
