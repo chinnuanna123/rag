@@ -11,5 +11,7 @@ fastapi
 uvicorn
 sse-starlette
 bs4
-chromadb
 faiss-cpu
+groq
+langchain-groq
+beautifulsoup4
